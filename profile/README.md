@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/devliftz">
-    <img src="devlift-logo-nobg.png" alt="" width="250px" height="250px">
+    <img src="https://github.com/devliftz/.github/blob/main/profile/devlift-logo-nobg.png?raw=true" alt="" width="250px" height="250px">
   </a>
 
   <p align="center">
