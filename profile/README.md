@@ -1,3 +1,6 @@
+<!-- head -->
 <script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
 
-<div class="repo-card" data-repo="bytebuildz/bytecord.py" data-theme="dark-theme"></div>
+
+<!-- inside body, where you want to create the card -->
+<div class="repo-card" data-repo="username/repository"></div>
