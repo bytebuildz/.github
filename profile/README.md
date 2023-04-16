@@ -1,9 +1,11 @@
-<style>
-    @font-face {
-    font-family: "PhonkContreast";
-    src: url(https://github.com/devliftz/.github/blob/main/data/Phonk%20Contrast%20DEMO.otf?raw=true) format("truetype");
-    }
-</style>
+<html>
+    <style>
+        @font-face {
+        font-family: "PhonkContreast";
+        src: url(https://icey.fr/PHCTD.otf) format("truetype");
+        }
+    </style>
+</html>
 
 <br/>
 <div align="center">
