@@ -1,6 +1,26 @@
-<!-- head -->
-<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
+<style>
+    @font-face {
+    font-family: "PhonkContreast";
+    src: url(https://github.com/devliftz/.github/blob/main/data/Phonk%20Contrast%20DEMO.otf?raw=true) format("truetype");
+    }
+</style>
 
+<br/>
+<div align="center">
+  <a href="https://github.com/bytebuildz">
+    <img src="devlift-logo-nobg.png" alt="" width="250px" height="250px">
+  </a>
+  
+  <h2 align="center" style="font-family: PhonkContreast;">DEVLIFT</h3>
+  
+  <p align="center">
+  </p>
+</div>
 
-<!-- inside body, where you want to create the card -->
-<div class="repo-card" data-repo="username/repository"></div>
+------------------------
+
+<p align="center">
+    <a href="https://discord.gg/FMqy6hbkkN"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.gg/FMqy6hbkkN" alt="Discord" /></a>
+    <a href="https://hack.icey.fr"><img src="https://img.shields.io/badge/Shop-FEE75C?style=for-the-badge&logo=Shopee&logoColor=black&link=https://hack.icey.fr" alt="Shop" /></a>
+    <a href="https://bb.icey.fr"><img src="https://img.shields.io/badge/Website-57F287?style=for-the-badge&logo=weblate&logoColor=black&link=https://bb.icey.fr" alt="Website" /></a>
+</p>
