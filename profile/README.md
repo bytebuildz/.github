@@ -1,8 +1,3 @@
-<br/>
-<div align="center">
-  <a href="https://github.com/bytebuildz">
-    <img src="https://raw.githubusercontent.com/bytebuildz/.github/main/profile/top.svg" alt="Logo" width="100%" height="100%">
-  </a>
-  <p align="center">
-  </p>
-</div>
+<script src="https://tarptaeya.github.io/repo-card/repo-card.js"></script>
+
+<div class="repo-card" data-repo="bytebuildz/bytecord.py" data-theme="dark-theme"></div>
