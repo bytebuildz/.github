@@ -1,7 +1,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/bytebuildz">
-    <img src="top.svg" alt="Logo" width="100%">
+    <img src="https://raw.githubusercontent.com/bytebuildz/.github/main/profile/top.svg" alt="Logo" width="100%">
   </a>
   
   <h2 align="center">ByteBuilders</h3>
